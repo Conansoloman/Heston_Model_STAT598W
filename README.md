@@ -1,6 +1,8 @@
 # Heston_Model_STAT598W
-Final project for STAT 598W Spring2015
+Final project Spring2015
+
 Instructor: Sveinn Olafsson
+
 
 The goal of this project is to implement a C++ library to price a number of nancial derivatives using Monte Carlo
 simulation, under the Heston stochastic volatility model. The library should also be able to calibrate the model
@@ -11,6 +13,7 @@ an introduction (Heston model overview, pros/cons, etc.), numerical methods over
 Carlo methodology), numerical results, and discussion on your ndings (implementation issues, accuracy, eciency,
 improvements). The report should also contain the interface for your library, i.e. a \user manual" with a description
 of each function and how to use it. The private section (implementation) should be included in an appendix.
+
 For data structures and algorithms, you should use STL as much as possible and take advantage of the STL algorithms.
 For data visualization you are allowed to use Matlab (or any other software). It is your responsibility to design the
 library and class hierarchy (you may get ideas from [6] and similar references), but at a minimum it should be able to
@@ -35,17 +38,14 @@ least-squares Monte Carlo (see [4] and references therein).
 reduction techniques, and improvements that are based on the fact that your model is Heston.
 Project milestones:
 
-
 1. April 9th. In-class discussion on how you intend to approach each part of the project. This is also the time to
 raise any questions or concerns you may have.
-
 2. TBD In-class project presentation.
-
 3. TBD Final report due.
 
 References
-1. L. Andersen. Ecient simulation of the Heston stochastic volatility model, Bank of America Securities, 2006.
 
+1. L. Andersen. Ecient simulation of the Heston stochastic volatility model, Bank of America Securities, 2006.
 2. P. Carr and D.B. Madan, Option valuation using the fast Fourier transform, Journal of Computational Finance
 2(4), 1999.
 3. D. Duy, Introduction to C++ for nancial engineers: An Object-Oriented Approach, Wiley, December 2006.
