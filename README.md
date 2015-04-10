@@ -36,6 +36,7 @@ least-squares Monte Carlo (see [4] and references therein).
 
 (7) For all of the above, you should consider improvements to the traditional Monte Carlo schemes, e.g. variance
 reduction techniques, and improvements that are based on the fact that your model is Heston.
+
 Project milestones:
 
 1. April 9th. In-class discussion on how you intend to approach each part of the project. This is also the time to
